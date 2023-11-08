@@ -1,10 +1,6 @@
-package grz55;
+package pl.grz55;
 
-/**
- * Hello world!
- *
- */
-public class App 
+public class LeetCode75
 {
     public static void main( String[] args )
     {
